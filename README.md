@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @YaSielDeda
+- 👀 I’m interested in learning profession of DevOps
+- 🌱 I’m currently learning C#
+- 📫 You can reach me at: bereg6484@gmail.com

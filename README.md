@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YaSielDeda</h1>
-<h3 align="center">Neoflex MLOps</h3>
+<h3 align="center">DevOps</h3>
 
 - 📫 How to reach me **bereg6484@gmail.com**
 
